@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/746.ea444202.chunk.js","mappings":"0JAIA,UAJoB,WAClB,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,eACd,C","sources":["pages/TrackerPage/TrackerPage.jsx"],"sourcesContent":["const TrackerPage = () => {\n  return <div>TrackerPage</div>;\n};\n\nexport default TrackerPage;\n"],"names":["_jsx","children"],"sourceRoot":""}

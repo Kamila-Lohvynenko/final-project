@@ -1,21 +1,27 @@
 {
   "files": {
     "main.css": "/final-project/static/css/main.5dbbe345.css",
-    "main.js": "/final-project/static/js/main.e26b42ed.js",
+    "main.js": "/final-project/static/js/main.ad89d38e.js",
     "static/js/680.57b6caf6.chunk.js": "/final-project/static/js/680.57b6caf6.chunk.js",
     "static/js/75.a40608af.chunk.js": "/final-project/static/js/75.a40608af.chunk.js",
     "static/js/622.54d26cb3.chunk.js": "/final-project/static/js/622.54d26cb3.chunk.js",
-    "static/js/746.ea444202.chunk.js": "/final-project/static/js/746.ea444202.chunk.js",
+    "static/css/939.c0fbe14c.chunk.css": "/final-project/static/css/939.c0fbe14c.chunk.css",
+    "static/js/939.d08966c0.chunk.js": "/final-project/static/js/939.d08966c0.chunk.js",
+    "static/js/948.c84188df.chunk.js": "/final-project/static/js/948.c84188df.chunk.js",
+    "static/media/sprite.svg": "/final-project/static/media/sprite.1eb4f0a15086ac702ee7387ad3666b91.svg",
     "index.html": "/final-project/index.html",
+    "static/media/slice": "/final-project/static/media/slice.e8b7dc4df9176291971e",
     "main.5dbbe345.css.map": "/final-project/static/css/main.5dbbe345.css.map",
-    "main.e26b42ed.js.map": "/final-project/static/js/main.e26b42ed.js.map",
+    "main.ad89d38e.js.map": "/final-project/static/js/main.ad89d38e.js.map",
     "680.57b6caf6.chunk.js.map": "/final-project/static/js/680.57b6caf6.chunk.js.map",
     "75.a40608af.chunk.js.map": "/final-project/static/js/75.a40608af.chunk.js.map",
     "622.54d26cb3.chunk.js.map": "/final-project/static/js/622.54d26cb3.chunk.js.map",
-    "746.ea444202.chunk.js.map": "/final-project/static/js/746.ea444202.chunk.js.map"
+    "939.c0fbe14c.chunk.css.map": "/final-project/static/css/939.c0fbe14c.chunk.css.map",
+    "939.d08966c0.chunk.js.map": "/final-project/static/js/939.d08966c0.chunk.js.map",
+    "948.c84188df.chunk.js.map": "/final-project/static/js/948.c84188df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dbbe345.css",
-    "static/js/main.e26b42ed.js"
+    "static/js/main.ad89d38e.js"
   ]
 }

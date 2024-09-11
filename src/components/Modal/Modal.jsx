@@ -10,6 +10,8 @@ const Modal = ({ children, isOpen, setState }) => {
       isOpen={isOpen}
       overlayClassName={css.overlay}
       className={css.modal}
+      shouldCloseOnOverlayClick={true}
+      onRequestClose={() => setState(false)}
       ariaHideApp={false}
     >
       <div className={css.modalContent}>

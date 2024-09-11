@@ -30,15 +30,15 @@ const TrackerPage = () => {
         break;
 
       case 'settingsModal':
-        isSettingsModalOpen(false);
+        setSettingsModal(false);
         break;
 
       case 'deleteWaterModal':
-        isDeleteWaterModalOpen(false);
+        setDeleteWaterModal(false);
         break;
 
       case 'logoutModal':
-        isLogoutModalOpen(false);
+        setLogoutModal(false);
         break;
 
       default:
